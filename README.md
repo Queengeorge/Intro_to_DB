@@ -1,0 +1,1 @@
+this is a repository that shows simple database tables done using SQL
